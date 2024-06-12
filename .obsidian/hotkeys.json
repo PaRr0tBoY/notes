@@ -1,0 +1,18 @@
+{
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-read-it-later:save-clipboard-to-notice": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "33ff13f92de264f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b29c554d1cb50013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700618e9af936b44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f04e69fed9c22249",
+    "type": "split",
+    "children": [
+      {
+        "id": "334406425ed9b862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c85ef7b3184eb2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "642ba51eb28689e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8b856f70dc87c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8c3d234850eb0421",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f27369b5fccf30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb30f2baa9f555f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "043769b8f90fc8cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a33d2c27f6f35341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94688e90c3ae83c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "700618e9af936b44",
+  "lastOpenFiles": [
+    "知识库/设计/3 布局与间距.md",
+    "知识库/设计/1 从小处开始.md",
+    "知识库/设计/2 层级就是一切.md",
+    "知识库/设计/重构UI.md",
+    "知识库/编程/Java/卡片/包.md",
+    "知识库/编程/Java/卡片/构造方法.md",
+    "图片链接.md",
+    "知识库/编程/Java/卡片/访问权限修饰符.md",
+    "知识库/Markdown语法/网页链接与图像.md",
+    "知识库/Markdown语法/markdown语法.md",
+    "剪贴板/科技爱好者周刊：第 75 期 - 阮一峰的网络日志.md",
+    "其他/计划/装机.md",
+    "其他/计划/做一名 vision pro 开发者.md",
+    "其他/计划/待办.md",
+    "其他/计划/脑雾驱散计划.md",
+    "知识库/编程/Java/卡片/this和super.md",
+    "知识库/编程/Java/卡片/链式调用.md",
+    "知识库/编程/Java/卡片/类.md",
+    "知识库/编程/Java/卡片/框架.md",
+    "知识库/编程/MYSQL.md",
+    "知识库/碎片/BT下载原理.md",
+    "知识库/设计/第一章.md",
+    "知识库/设计",
+    "知识库/PR/PR.md",
+    "知识库/编程/Java/卡片/语句.md",
+    "知识库/编程/Java/卡片/James Goslin&Java.md",
+    "知识库/编程/Java/卡片/JDK.md",
+    "知识库/碎片",
+    "Pasted image 20240116210328.png",
+    "未命名",
+    "知识库/编程/Java/卡片",
+    "知识库/编程/Java"
+  ]
+}
